@@ -18,5 +18,7 @@
 
 ## <a name="features">🔋 Features</a>
 👉 **Real-time Messaging** : Users can send and receive messages instantly.
+
 👉 **Online Status** : Indicates whether users are currently active or offline.
+
 👉 **Multi-User Chat** : Multiple users can engage in conversations simultaneously.
